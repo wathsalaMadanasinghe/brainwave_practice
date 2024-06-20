@@ -12,7 +12,7 @@ Brainwave is a sleek, modern website built using React and Tailwind CSS. This pr
 
 ## Website
 
- - Visit the live website here:[Brainwave](brainwave-practice.vercel.app)
+ - Website link is in the about.
 
 ## Screenshots
 
